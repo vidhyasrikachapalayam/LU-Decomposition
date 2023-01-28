@@ -64,12 +64,12 @@ print(x)
 
 ## Output:
 To find the L and U matrix
+![lu1](https://user-images.githubusercontent.com/119477817/215279992-4959c88c-5a34-478c-b30d-c7f7612a6c9c.png)
 
-![lu1.png](./lu1.png)
 
  To find the LU Decomposition of a matrix
+![lu2](https://user-images.githubusercontent.com/119477817/215280009-c271318d-1732-4467-bde9-b6260f517760.png)
 
-![lu2.png](./lu2.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
